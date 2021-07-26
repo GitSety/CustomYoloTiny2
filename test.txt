@@ -1,4 +1,4 @@
-/content/CustomYoloTiny/obj/0001.jpg
-/content/CustomYoloTiny/obj/0002.jpg
-/content/CustomYoloTiny/obj/0003.jpg
-/content/CustomYoloTiny/obj/0004.jpg
+/content/CustomYoloTiny2/obj/0001.jpg
+/content/CustomYoloTiny2/obj/0002.jpg
+/content/CustomYoloTiny2/obj/0003.jpg
+/content/CustomYoloTiny2/obj/0004.jpg
