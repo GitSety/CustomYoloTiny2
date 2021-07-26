@@ -1,5 +1,5 @@
 classes= 27
-train  = /content/CustomYoloTiny/train.txt
-valid  = /content/CustomYoloTiny/valid.txt
-names = /content/CustomYoloTiny/obj.names
+train  = /content/CustomYoloTiny2/train.txt
+valid  = /content/CustomYoloTiny2/valid.txt
+names = /content/CustomYoloTiny2/obj.names
 backup = backup/
